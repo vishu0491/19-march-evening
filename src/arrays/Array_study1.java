@@ -9,7 +9,7 @@ public class Array_study1 {
 		
 		String name[]=new String[4];
 		
-		//array intialization
+		//array Intialization
 		
 		name[0]="RAM";
 		name[1]="SEETA";
